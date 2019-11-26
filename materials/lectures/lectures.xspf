@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/01-prednaska-2012-10-08-1080p.mp4</location>
+			<title>prednaska_2012_10_08_vfine</title>
+			<duration>5167671</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/02-prednaska-2012-10-15-1080p.mp4</location>
+			<title>prednaska_2012_10_15_vfine</title>
+			<duration>5307223</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/03-prednaska-2012-10-22-1080p.mp4</location>
+			<title>prednaska_2012_10_22_vfine</title>
+			<duration>5159428</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/04-prednaska-2012-11-05-1080p.mp4</location>
+			<title>prednaska_2012_11_05_1_vfine</title>
+			<duration>4382512</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/05-prednaska-2012-11-05-1080p.mp4</location>
+			<title>prednaska_2012_11_05_cast2_vfine</title>
+			<duration>4724518</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/06-prednaska-2012-11-12-1080p.mp4</location>
+			<title>prednaska_2012_11_12_vfine</title>
+			<duration>5486481</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/07-prednaska-2012-11-19-1080p.mp4</location>
+			<title>prednaska_2012_11_19_vfine</title>
+			<duration>5303345</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/08-prednaska-2012-11-26-1080p.mp4</location>
+			<title>prednaska_26_11_2012_vfine</title>
+			<duration>4935518</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/09-prednaska-2012-12-03-1080p.mp4</location>
+			<title>prednaska_03_12_2012_vfine</title>
+			<duration>5188198</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/10-prednaska-2012-12-10-1080p.mp4</location>
+			<title>prednaska_10_12_2012_vfine</title>
+			<duration>4857708</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/11-prednaska-2012-12-17-1080p.mp4</location>
+			<title>prednaska_2012_12_17_vfine</title>
+			<duration>5528672</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/12-prednaska-2013-01-07-1080p.mp4</location>
+			<title>prednaska_2013_01_07_vfine</title>
+			<duration>5715105</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://iuuk.mff.cuni.cz/~nesetril/cz/dm/video/13-prednaska-2015-01-08-1080p.mp4</location>
+			<title>DM_leden_2015_vfine</title>
+			<duration>4330440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+	</extension>
+</playlist>
